@@ -1,4 +1,4 @@
-# Projeto Fase 5 – Machine Learning na Cabeça
+# Projeto Fase 5 – Cap 1 FarmTech na era da cloud computing
 **Autor:** Kleber Foks – RM 562225  
 **Instituição:** FIAP  
 **Disciplina:** Inteligência Artificial – Fase 5  
@@ -11,8 +11,6 @@ A atividade consiste em duas entregas obrigatórias:
 
 1. **Entrega 1 – Machine Learning:** análise exploratória dos dados de rendimento agrícola, detecção de outliers, clusterização e criação de cinco modelos preditivos diferentes para prever a produtividade da safra.  
 2. **Entrega 2 – Computação em Nuvem (AWS):** estimativa de custos e justificativa técnica para hospedar a solução em nuvem.
-
-Além disso, existem entregas extras opcionais chamadas **“Ir Além”**, que funcionam como desafio de aprofundamento.
 
 ---
 
@@ -39,18 +37,14 @@ Além disso, existem entregas extras opcionais chamadas **“Ir Além”**, que 
 ---
 
 ## ☁️ Entrega 2 – Computação em Nuvem (AWS)
-Nesta entrega foi utilizada a **AWS Pricing Calculator** para estimar os custos de uma máquina Linux simples, com as seguintes configurações:  
+Foi utilizada a **AWS Pricing Calculator** para estimar os custos de uma máquina Linux simples, com as seguintes configurações:  
 
 - 2 vCPUs  
-- 2 GiB RAM (instância t3.small, mais próxima da configuração solicitada)  
+- 2 GiB RAM (instância t3.small, valor mais próximo da configuração solicitada)  
 - Até 5 Gbps de rede  
 - 50 GB de armazenamento (EBS gp3)  
 
-📌 Comparação realizada entre as regiões:  
-- **São Paulo (BR)**  
-- **Norte da Virgínia (EUA)**  
-
-### 🔹 Resultados obtidos
+### 🔹 Comparação de custos
 
 | Região             | Instância | vCPUs | Memória | Armazenamento | Preço (USD/mês) |
 |--------------------|-----------|-------|---------|---------------|-----------------|
