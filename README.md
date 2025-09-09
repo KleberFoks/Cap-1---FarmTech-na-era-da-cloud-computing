@@ -40,7 +40,7 @@ A atividade consiste em duas entregas obrigatórias:
 Foi utilizada a **AWS Pricing Calculator** para estimar os custos de uma máquina Linux simples, com as seguintes configurações:  
 
 - 2 vCPUs  
-- 2 GiB RAM (instância t3.small, valor mais próximo da configuração solicitada)  
+- 1 GiB RAM (instância t4g.micro, valor mais próximo da configuração solicitada)  
 - Até 5 Gbps de rede  
 - 50 GB de armazenamento (EBS gp3)  
 
