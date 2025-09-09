@@ -48,11 +48,11 @@ Foi utilizada a **AWS Pricing Calculator** para estimar os custos de uma máquin
 
 | Região             | Instância | vCPUs | Memória | Armazenamento | Preço (USD/mês) |
 |--------------------|-----------|-------|---------|---------------|-----------------|
-| São Paulo (BR)     | t3.small  | 2     | 2 GiB   | 50 GB GP3     | 32,13           |
-| Virgínia do Norte  | t3.small  | 2     | 2 GiB   | 50 GB GP3     | 7,80            |
+| São Paulo (BR)     | t4g.micro | 2     | 1 GiB   | 50 GB GP3     | 17,38           |
+| Virgínia do Norte  | t4g.micro | 2     | 1 GiB   | 50 GB GP3     | 10,13           |
 
 ### 🔹 Justificativa da escolha
-Embora a região da **Virgínia do Norte (EUA)** apresente custo significativamente menor (~7,80 USD/mês contra 32,13 USD/mês em São Paulo), a opção adequada é **São Paulo (BR)**, pois:  
+Embora a região da **Virgínia do Norte (EUA)** apresente custo menor, a opção adequada é **São Paulo (BR)**, pois:  
 - Há **restrições legais** para armazenamento de dados no exterior.  
 - Hospedar a API próxima à fazenda garante **menor latência** e melhor tempo de resposta.  
 - Assim, mesmo com custo mais elevado, São Paulo é a escolha correta.
