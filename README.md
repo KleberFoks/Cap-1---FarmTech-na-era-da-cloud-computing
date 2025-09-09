@@ -31,8 +31,8 @@ A atividade consiste em duas entregas obrigatórias:
 📄 **Notebook completo:**  
 👉 [Acesse o notebook no GitHub](./KleberFoks_rm562225_pbl_fase4.ipynb)
 
-🎥 **Vídeo demonstrativo (YouTube, não listado):**  
-👉 [Link para o vídeo](COLE_AQUI_O_LINK)
+🎥 **Vídeo demonstrativo:**  
+👉 [Link para o vídeo](https://youtu.be/Sv5rjBkGEHo)
 
 ---
 
@@ -59,8 +59,8 @@ Embora a região da **Virgínia do Norte (EUA)** apresente custo menor, a opçã
 
 📸 Prints da calculadora AWS foram adicionados na pasta `docs/prints_aws` do repositório.  
 
-🎥 **Vídeo demonstrativo (YouTube, não listado):**  
-👉 [Link para o vídeo](COLE_AQUI_O_LINK)
+🎥 **Vídeo demonstrativo:**  
+👉 [Link para o vídeo](https://youtu.be/mvF8M91bZQs)
 
 ---
 
